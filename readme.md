@@ -1,6 +1,6 @@
 # Batch projects
 
-<a href="https://github.com/ItaloPussi/BatchProjects/blob/master/readme.pt.md">Versão em Português</a> 👈
+<a href="https://github.com/ItaloPussi/ClonesUI/blob/master/readme.pt.md">Versão em Português</a> 👈
 
 One of the best ways to practice knowledge of HTML, CSS and JS is by replicating the interface of famous websites. In this repository you will find clones of the main pages of famous sites such as: Netflix, Youtube, Facebook and more.
 
