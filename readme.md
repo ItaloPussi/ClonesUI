@@ -14,7 +14,7 @@ The designs used here are the sole property of their creators. The goal here is 
 
 ## Contributing
 
-If you want to suggest an interesting project to be done in batch, feel free to open an issue.
+If you want to suggest an interesting interface to be cloned feel free to open an issue.
 
 ## Licence
 [MIT](https://choosealicense.com/licenses/mit/)
