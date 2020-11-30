@@ -13,7 +13,7 @@ Caso deseje testar alguma funcionalidade, basta clonar o diretório, acessar o s
 Os designs aqui utilizados são de total propriedade de seus criadores. O objetivo aqui é o estudo e o aprendizado como um todo.
 
 ## Contribuindo
-Caso queira sugerir algum projeto interessante para ser feito em batch, sinta-se livre para abrir uma issue. 
+Caso queira sugerir alguma interface interessante para ser clonada sinta-se livre para abrir uma issue. 
 
 ## Licença
 [MIT](https://choosealicense.com/licenses/mit/)
