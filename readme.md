@@ -1,4 +1,4 @@
-# Batch projects
+# Clones UI
 
 <a href="https://github.com/ItaloPussi/ClonesUI/blob/master/readme.pt.md">Versão em Português</a> 👈
 
