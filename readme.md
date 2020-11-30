@@ -4,7 +4,7 @@
 
 One of the best ways to practice knowledge of HTML, CSS and JS is by replicating the interface of famous websites. In this repository you will find clones of the main pages of famous sites such as: Netflix, Youtube, Facebook and more.
 
-## Instalation
+## Installation
 
 If you want to test some functionality, just clone the directory, access the chosen subdirectory and start the file ```index.html```
 
